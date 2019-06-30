@@ -29,6 +29,8 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
+    <el-button type="text">文字按钮</el-button>
+    <el-button type="primary" :loading="true">加载中</el-button>
   </div>
 </template>
 
