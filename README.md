@@ -10,6 +10,5 @@ yarn serve
 yarn build
 
 # 发布
-cd AppService 
-cp -rf  ./public/ /usr/share/nginx/html/tiaoque-blog-container/
-service nginx restart
+rm -rf /usr/share/nginx/html/tiaoque-blog-container/
+cp -rf ./dist/ /usr/share/nginx/html/tiaoque-blog-container/
