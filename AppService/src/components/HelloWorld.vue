@@ -6,10 +6,10 @@
     </p>
     <h3>关注技术</h3>
     <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-typescript" target="_blank" rel="noopener">typescript</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-pwa" target="_blank" rel="noopener">pwa</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-unit-jest" target="_blank" rel="noopener">unit-jest</a></li>
+      <li>Java</li>
+      <li>babel</li>
+      <li>typescript</li>
+      <li>pwa</li>
     </ul>
     <ul>
       <li><a href="http://beian.miitbeian.gov.cn" target="_blank" rel="noopener">沪ICP备19039564</a></li>
