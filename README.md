@@ -8,3 +8,8 @@ yarn install --registry=https://registry.npm.taobao.org
 yarn serve
 # 打包
 yarn build
+
+# 发布
+cd AppService 
+cp -rf  ./public/ /usr/share/nginx/html/tiaoque-blog-container/
+service nginx restart
