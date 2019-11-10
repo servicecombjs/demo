@@ -1,6 +1,6 @@
 // 配置
 module.exports = {
-    baseUrl: './',
+    baseUrl: './', 
     productionSourceMap: false,
     devServer: {
         proxy: null
