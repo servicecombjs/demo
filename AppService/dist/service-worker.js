@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.d3610b2b48e80dcb3a1c92f306bcf2a5.js"
+  "precache-manifest.634228d215dba9805de59e7175e1f000.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "servicecomb"});
